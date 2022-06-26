@@ -1,0 +1,13 @@
+SELECT * FROM nba.games;
+#5- QUAIS OS 5 TIMES COM MAIS VITÓRIA EM CASA - 2013
+SELECT 
+    teams.NICKNAME AS 'Time', SUM(HOME_TEAM_WINS) AS Vitorias
+FROM
+    games
+        INNER JOIN
+    teams ON teams.TEAM_ID = games.HOME_TEAM_ID
+WHERE
+    SEASON = 2013
+GROUP BY games.HOME_TEAM_ID
+ORDER BY Vitorias DESC
+LIMIT 5;

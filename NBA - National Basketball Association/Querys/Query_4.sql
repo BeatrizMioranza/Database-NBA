@@ -1,0 +1,11 @@
+SELECT * FROM nba.ranking;
+#4- QUAIS OS 5 TIMES COM MAIS VITÓRIA NO TOTAL
+SELECT 
+    TEAM AS Times, W AS 'Vitórias'
+FROM
+    ranking
+WHERE
+    W
+GROUP BY TEAM_ID
+ORDER BY W DESC
+LIMIT 5;
