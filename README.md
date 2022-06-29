@@ -1,4 +1,6 @@
-<img src="./NBA - National Basketball Association/IMG/nba-logo-1.png">
+<div align=center>
+<img  alt="logoNBA" height="65%" width="100%" src="./NBA - National Basketball Association/IMG/nba-logo-1.png">
+</div>
 <h1 align=center>Database: NBA 🏀 </h1>
 <div id="inicio" align=center>
   <a href="#descrição">Descrição</a>&nbsp;&nbsp;
