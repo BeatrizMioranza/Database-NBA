@@ -59,7 +59,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 
   - [Beatriz Mioranza](https://www.linkedin.com/in/beatrizmioranza/)
   - [Igor Reis](https://www.linkedin.com/in/igor-reis-b6b84120a/)
-  - [Samuel Cambraia da Silva](https://www.linkedin.com/in/samuel-cambraia-da-silva-7bb0451a3/)
+  - [Samuel Cambraia](https://www.linkedin.com/in/samuel-cambraia-da-silva-7bb0451a3/)
   - [Júlia Toledo](https://www.linkedin.com/in/julia-toledo-bueno/)
   
 
