@@ -40,7 +40,7 @@ O dashboard criado com as informações fornecidas: <a href="https://datastudio.
 <img src="./NBA - National Basketball Association/IMG/relacionamento.png">
 <br>
 
-<h2 id=trello>Trello 📝</h2>
+<h2 id=trello>Trello 📝</h2>    
 <img src="./NBA - National Basketball Association/IMG/trello.png">
 <br>
 
@@ -55,11 +55,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
  </div>         
  <br>
 
-<h2 id="time">Time de desenvolvimento 🐉</h2>
+<h2 id="time">Time de desenvolvimento 🐉 </h2>
 
   - [Beatriz Mioranza](https://www.linkedin.com/in/beatrizmioranza/)
   - [Igor Reis](https://www.linkedin.com/in/igor-reis-b6b84120a/)
-  - [Samuel Cambraia](https://www.linkedin.com/in/samuel-cambraia-da-silva-7bb0451a3/)
+  - [Samuel Cambraia da Silva](https://www.linkedin.com/in/samuel-cambraia-da-silva-7bb0451a3/)
   - [Júlia Toledo](https://www.linkedin.com/in/julia-toledo-bueno/)
   
 
